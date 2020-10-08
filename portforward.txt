@@ -1,0 +1,1 @@
+kubectl port-forward -n kube-system svc/elasticsearch-logging 9200:9200
